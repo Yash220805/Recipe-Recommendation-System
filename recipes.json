@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Vegan Lasagna",
+        "image": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+        "id": "52775",
+        "diet": "Vegetarian",
+        "calories": "N/A",
+        "protein": "N/A",
+        "carbs": "N/A",
+        "fat": "N/A"
+    },
+    {
+        "title": "Vegetable Shepherd's Pie",
+        "image": "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg",
+        "id": "53000",
+        "diet": "Vegetarian",
+        "calories": "N/A",
+        "protein": "N/A",
+        "carbs": "N/A",
+        "fat": "N/A"
+    },
+    {
+        "title": "Vegetarian Casserole",
+        "image": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
+        "id": "52863",
+        "diet": "Vegetarian",
+        "calories": "N/A",
+        "protein": "N/A",
+        "carbs": "N/A",
+        "fat": "N/A"
+    },
+    {
+        "title": "Matar Paneer",
+        "image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+        "id": "52865",
+        "diet": "Vegetarian",
+        "calories": "N/A",
+        "protein": "N/A",
+        "carbs": "N/A",
+        "fat": "N/A"
+    }
+]
